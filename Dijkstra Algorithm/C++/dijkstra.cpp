@@ -64,17 +64,17 @@ void Graph::add_edge(std::size_t src , std::size_t dest, int weight)
     {
         if (src == dest)
         {
-            throw std::logic_error("src == dest");
+            throw std::logic_error("Source and destination vertices are same");
         }
 
         if (src < 0 || vertices.size() <= src)
         {
-            throw std::out_of_range("src");
+            throw std::out_of_range("Enter correct source vertex");
         }
 
         if (dest < 0 || vertices.size() <= dest)
         {
-            throw std::out_of_range("dest");
+            throw std::out_of_range("Enter correct destination vertex");
         }
 
         int flag = 0, i = src;
@@ -92,7 +92,7 @@ void Graph::add_edge(std::size_t src , std::size_t dest, int weight)
         }
         else
         {
-            throw std::logic_error("exixting edge");
+            throw std::logic_error("Existing edge");
         }
 
     }
