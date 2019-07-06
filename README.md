@@ -23,7 +23,7 @@ Algorithms and Data Structure Programs
    
   # Sorting
    1. [Counting Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Counting%20Sort/C%2B%2B/countingsort.cpp)
-   2. [Heapsort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/C%2B%2B/heapsort.cpp)
+   2.  Heapsort[C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/C%2B%2B/heapsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/heapSort.py)
    3. [Maximum Priority Queue](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Maximum%20Priority%20Queue/C%2B%2B/maxpriorityqueue.cpp)
    4. [Insertion Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Insertion%20Sort/C%2B%2B/insertionsort.cpp)
    5. [Merge Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sort/C%2B%2B/mergesort.cpp)
