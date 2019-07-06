@@ -23,12 +23,12 @@ Algorithms and Data Structure Programs
    
   # Sorting
    1. [Counting Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Counting%20Sort/C%2B%2B/countingsort.cpp)
-   2.  Heapsort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/C%2B%2B/heapsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/heapSort.py)
+   2.  Heapsort [C++] | (https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/C%2B%2B/heapsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/heapSort.py)
    3. [Maximum Priority Queue](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Maximum%20Priority%20Queue/C%2B%2B/maxpriorityqueue.cpp)
-   4. Insertion Sort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Insertion%20Sort/C%2B%2B/insertionsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Insertion%20Sort/insertionSort.py)
-   5. Merge Sort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sort/C%2B%2B/mergesort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sort/mergeSort.py)
-   6. Quick Sort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Quick%20Sort/C%2B%2B/quicksort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Quick%20Sort/quickSort.py)
-   7. Selection Sort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Selection%20Sort/C%2B%2B/selectionsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Selection%20Sort/selectionSort.py)
+   4. Insertion Sort [C++] | (https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Insertion%20Sort/C%2B%2B/insertionsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Insertion%20Sort/insertionSort.py)
+   5. Merge Sort [C++] | (https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sort/C%2B%2B/mergesort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sort/mergeSort.py)
+   6. Quick Sort [C++] | (https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Quick%20Sort/C%2B%2B/quicksort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Quick%20Sort/quickSort.py)
+   7. Selection Sort [C++] | (https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Selection%20Sort/C%2B%2B/selectionsort.cpp) [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Selection%20Sort/selectionSort.py)
    
   # Greedy Algorithm
    1. [Huffman Coding](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Huffman%20Coding/C%2B%2B/Huffman.cpp)
