@@ -40,9 +40,9 @@ Algorithms and Data Structure Programs
    4. [Dijkstra Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Dijkstra%20Algorithm/C%2B%2B/dijkstra.cpp)
    5. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp)
    
-   **Website**: [programmercave0.github.io/](programmercave0.github.io/)
-   **Facebook**: [https://www.facebook.com/programmercave/](https://www.facebook.com/programmercave/)
-   **Telegram**: [https://t.me/programmercave](https://t.me/programmercave)
+   **Website**: [programmercave0.github.io/](programmercave0.github.io/) <br/>
+   **Facebook**: [https://www.facebook.com/programmercave/](https://www.facebook.com/programmercave/) <br/>
+   **Telegram**: [https://t.me/programmercave](https://t.me/programmercave)<br/>
    
    
    
