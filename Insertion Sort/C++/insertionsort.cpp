@@ -1,34 +1,29 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 void insertion_sort(std::vector<int>& vec)
 {
-    for(std::size_t j = 1; j < vec.size(); j++)
-    {
-      int key = vec[j];
-      int i = j-1;
+	for(auto it = vec.begin(); it != vec.end(); it++)
+ 	{
+   		// Search
+   		auto const insertion_point = std::upper_bound(vec.begin(), it, *it);
 
-      while(i >= 0 && vec[i] > key)
-      {
-         vec[i+1] = vec[i];
-         i--;
-      }
-      vec[i+1] = key;
-    }
+   		//insert
+   		std::rotate(insertion_point, it, it+1);
+ 	}
 }
 
-void print(std::vector<int>& vec) 
+void print(std::vector<int> const& vec)
 {
-    for(unsigned i = 0; i < vec.size(); i++)
-    {
-        std::cout << vec[i] << " ";
-    }
-    std::cout << "\n";
+	for( int x : vec)
+  		std::cout << x << " ";
+	std::cout << '\n';
 }
 
 int main()
 {
-    std::vector<int> arr = {5, 2, 4, 6, 1, 3};
-    insertion_sort(arr);
-    print(arr);
+	std::vector<int> arr = {5, 2, 4, 6, 1, 3};
+ 	insertion_sort(arr);
+ 	print(arr);
 }
