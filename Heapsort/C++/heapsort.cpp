@@ -1,54 +1,53 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
 
-void max_heapify(int arr[], int i, int si)
+void max_heapify(std::vector<int>& arr, int i, int size_)
 {
-   int largest, l = (2*i) + 1, r = l + 1;
+    int largest, l = (2*i) + 1, r = l + 1;
 
-   if(l < si && arr[l] > arr[i])
-      largest = l;
-   else
-    largest = i;
+    if(l < size_ && arr[l] > arr[i])
+        largest = l;
+    else
+        largest = i;
 
-   if(r < si && arr[r] > arr[largest])
-    largest = r;
+    if(r < size_ && arr[r] > arr[largest])
+        largest = r;
 
-   if(largest != i)
-   {
-      int temp = arr[i];
-      arr[i] = arr[largest];
-      arr[largest] = temp;
-      max_heapify(arr, largest, si);
-   }
+    if(largest != i)
+    {
+        std::swap(arr[i], arr[largest]);
+        max_heapify(arr, largest, size_);
+    }
 }
 
-void build_max_heap(int arr[], int si)
+void build_max_heap(std::vector<int>& arr)
 {
-    for(int i = (si/2) - 1; i >=0; i--)
-    max_heapify(arr, i, si);
+    for(int i = (arr.size() / 2); i >= 0; i--)
+    max_heapify(arr, i, arr.size());
 }
 
-void heap_sort(int arr[], int si)
+void heap_sort(std::vector<int>& arr)
 {
-   build_max_heap(arr, si);
-   int sz = si;
-   for(int i = si - 1;i > 0; i--)
+   build_max_heap(arr);
+   int sz = arr.size();
+   for(int i = arr.size() - 1; i > 0; i--)
    {
-      int temp = arr[i];
-      arr[i]   = arr[0];
-      arr[0]   = temp;
-      sz--;
-      max_heapify(arr, 0, sz);
+        std::swap(arr[0], arr[i]);
+        sz--;
+        max_heapify(arr, 0, sz);
     }
 }
 
 int main()
 {
-    int a[] = {4, 1, 3, 2, 16, 9, 10, 14, 8, 7, 3, 2, 4, 1, 77, 2, 545, 66, 34, 2, 354, 58, 32, 4};
-    int s = sizeof(a)/sizeof(int);
-    heap_sort(a, s);
-    for(int i = 0;i < s; i++)
+    std::vector<int> arr = {4, 1, 3, 2, 16, 9, 10, 14, 8, 7};
+    heap_sort(arr);
+    
+    for(int i = 0; i < arr.size(); i++)
     {
-      std::cout << a[i] << " ";
+         std::cout << arr[i] << " ";
     }
+    std::cout << "\n";
     return 0;
 }
