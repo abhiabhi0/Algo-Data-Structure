@@ -38,7 +38,7 @@ Algorithms and Data Structure Programs
    2. [Breadth First Search](https://github.com/thakurabhi/Algo-Data-Structure/tree/master/Breadth%20First%20Search/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/03/06/C++-Breadth-First-Search-using-Adjacency-List)
    3. [Depth First Seacrh](https://github.com/thakurabhi/Algo-Data-Structure/tree/master/Depth%20First%20Seacrh/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/05/C++-Depth-First-Search-using-Adjacency-List)
    4. [Dijkstra Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Dijkstra%20Algorithm/C%2B%2B/dijkstra.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/14/C++-Dijkstra's-Algorithm-using-STL)
-   5. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp)
+   5. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2019/11/18/Kruskal's-Algorithm-Minimum-Spanning-Tree)
    
    **Website**: [programmercave0.github.io/](https://programmercave0.github.io/) <br/>
    **Facebook**: [https://www.facebook.com/programmercave/](https://www.facebook.com/programmercave/) <br/>
