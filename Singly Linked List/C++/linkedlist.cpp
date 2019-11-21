@@ -3,13 +3,13 @@
 template <class T>
 class LinkedList
 {
-  struct Node
-  {
-    T data;
-    Node * next;
-    Node(T val): data(val), next(nullptr){}
-  };
-  Node *head;
+    struct Node
+    {
+        T data;
+        Node * next;
+        Node(T val): data(val), next(nullptr){}
+    };
+    Node *head;
 
  public:
      LinkedList() : head(nullptr){}
@@ -19,28 +19,30 @@ class LinkedList
      void insert(T);
      void display(std::ostream& out = std::cout) const
      {
-Node *node=head;
-while(node!=nullptr)
-    {
-        out << node->data << " ";
-        node=node->next;
-    }
-}
+          Node *node = head;
+          while(node != nullptr)
+          {
+              out << node->data << " ";
+              node = node->next;
+          }
+      }
+      
      void deleteNode(T);
      template <class U>
      friend std::ostream & operator<<(std::ostream & os, const LinkedList<U> & ll);
 
  private:
     struct Node *search(T n)
-    {                            //returns node of the given number
+    {                            //returns node of the given value
         Node *node = head;
-        while(node!=nullptr)
-            {
-            if(node->data==n)
+        while(node != nullptr)
+        {
+            if(node->data == n)
                  return node;
-        node=node->next;
-            }
-        std::cerr<<"No such element in the list \n";
+            node = node->next;
+        }
+
+        std::cerr << "No such element in the list \n";
         return nullptr;
     }
 
@@ -49,64 +51,65 @@ while(node!=nullptr)
 template <class U>
 std::ostream & operator<<(std::ostream & os, const LinkedList<U>& ll)
 {
- ll.display(os);
- return os;
+    ll.display(os);
+    return os;
 }
 
 template <class T>
 void LinkedList<T>::insert(T data)
 {
-  Node *t = new Node(data);
-  Node *tmp = head;
-  if (tmp == nullptr)
+    Node *t = new Node(data);
+    Node *tmp = head;
+    if (tmp == nullptr)
     {
-      head = t;
+        head = t;
     }
-  else
+    else
     {
-      while (tmp->next != nullptr)
-      {
-          tmp = tmp->next;
-      }
-      tmp->next = t;
+        while (tmp->next != nullptr)
+        {
+            tmp = tmp->next;
+        }
+        tmp->next = t;
     }
 }
 
 template <class T>
 void LinkedList<T>::deleteNode(T data)
 {
-  Node *node=search(data);
-  Node *tmp = head;
-  if(tmp==node)
-   {
-    head=tmp->next;
-   }
-   else
-   {
-   while(node!=nullptr)
-   {
-      if(tmp->next==node)
-      {
-        tmp->next=node->next;
-        return ;
-      }
-      tmp=tmp->next;
+    Node *node=search(data);
+    Node *tmp = head;
+
+    if(tmp == node)
+    {
+        head=tmp->next;
     }
-  }
-      delete tmp;
+    else if (node != nullptr)
+    {
+        while(node != nullptr)
+        {
+            if(tmp->next==node)
+            {
+                tmp->next=node->next;
+                return ;
+            }
+            tmp=tmp->next;
+        }
+        delete tmp;
+    }
 }
 
 template <class T>
 LinkedList<T>::~LinkedList()
 {
-  Node *tmp = nullptr;
-  while (head)
-  {
-      tmp = head;
-      head = head->next;
-      delete tmp;
-   }
-  head =nullptr;
+    Node *tmp = nullptr;
+    while (head)
+    {
+        tmp = head;
+        head = head->next;
+        delete tmp;
+    }
+    head =nullptr;
 }
 
 int main()
@@ -117,7 +120,7 @@ int main()
     ll1.insert(7);
     ll1.insert(8);
     std::cout<<ll1<<std::endl;
-    ll1.deleteNode(7);
+    ll1.deleteNode(11);
     std::cout<<ll1<<std::endl;
     LinkedList<char> ll2;
     ll2.insert('a');
