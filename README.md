@@ -2,15 +2,15 @@
 Algorithms and Data Structure Programs 
 
   # Linked List
-   1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp)
-   2. [Doubly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Linked%20List/C%2B%2B/doublylinkedlist.cpp)
-   3. [Linked List containing Loop](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Linked%20List%20containing%20Loop/C%2B%2B/linkedListwithLoop.cpp)
-   4. [Merge Sorted Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sorted%20Linked%20List/C%2B%2B/mergesortedlist.cpp)
-   5. [Move Even numbers before Odd](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Move%20Even%20numbers%20before%20Odd/C%2B%2B/exchangeevenodd.cpp)
-   6. [Reverse Linked List](https://github.com/thakurabhi/Algo-Data-Structure/tree/master/Reverse%20Linked%20List/C%2B%2B)
-   7. [Singly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Singly%20Linked%20List/C%2B%2B/linkedlist.cpp)
-   8. [Split Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Split%20Circular%20Linked%20List/C%2B%2B/splitcll.cpp)
-   9. [Stack using Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Stack%20using%20Linked%20List/C%2B%2B/stackusingll.cpp)
+   1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
+   2. [Doubly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Linked%20List/C%2B%2B/doublylinkedlist.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/28/C++-Doubly-Linked-List-using-Template-(Data-Structure))
+   3. [Linked List containing Loop](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Linked%20List%20containing%20Loop/C%2B%2B/linkedListwithLoop.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/01/20/C++-Linked-List-containing-Loop-(Floyd-Cycle-finding-Algorithm)-program)
+   4. [Merge Sorted Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Merge%20Sorted%20Linked%20List/C%2B%2B/mergesortedlist.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/06/C++-Merge-two-sorted-Linked-List-(in-place))
+   5. [Move Even numbers before Odd](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Move%20Even%20numbers%20before%20Odd/C%2B%2B/exchangeevenodd.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/08/C++-Move-all-Even-numbers-before-Odd-numbers-in-Singly-Linked-List-(Using-STL))
+   6. [Reverse Linked List](https://github.com/thakurabhi/Algo-Data-Structure/tree/master/Reverse%20Linked%20List/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/01/23/C++-Reverse-the-Linked-List-(Iterative-Method)-program)
+   7. [Singly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Singly%20Linked%20List/C%2B%2B/linkedlist.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/27/C++-Singly-Linked-List-using-Template-(Data-Structure))
+   8. [Split Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Split%20Circular%20Linked%20List/C%2B%2B/splitcll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/04/C++-Split-Singly-Circular-Linked-List-program)
+   9. [Stack using Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Stack%20using%20Linked%20List/C%2B%2B/stackusingll.cpp)<br/>
    10.[Swap node links in Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Swap%20node%20links%20in%20Linked%20List/C%2B%2B/swapnodelinks.cpp)
   
   # Stacks
