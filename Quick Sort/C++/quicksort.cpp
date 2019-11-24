@@ -15,7 +15,7 @@ int split(int a[], int start_index, int end_index)
     }
     std::swap(a[i+1], a[end_index]);//swap(a[i+1],a[end_index])
 
-    return i + 1;
+    return i;
 }
 
 void quicksort(int a[], int start_index, int end_index)
