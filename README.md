@@ -11,7 +11,7 @@ Curated list of Algorithms and Data Structure Programs
    7. [Singly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Singly%20Linked%20List/C%2B%2B/linkedlist.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/27/C++-Singly-Linked-List-using-Template-(Data-Structure))
    8. [Split Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Split%20Circular%20Linked%20List/C%2B%2B/splitcll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/04/C++-Split-Singly-Circular-Linked-List-program)
    9. [Stack using Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Stack%20using%20Linked%20List/C%2B%2B/stackusingll.cpp)<br/>
-  10.[Swap node links in Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Swap%20node%20links%20in%20Linked%20List/C%2B%2B/swapnodelinks.cpp)
+10.[Swap node links in Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Swap%20node%20links%20in%20Linked%20List/C%2B%2B/swapnodelinks.cpp)
   
   # Stacks
    1. [Remove Adjacent Duplicates using Stack](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Remove%20Adjacent%20Duplicates%20using%20Stack/C%2B%2B/deleteDuplicate.cpp)
@@ -40,9 +40,11 @@ Curated list of Algorithms and Data Structure Programs
    4. [Dijkstra Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Dijkstra%20Algorithm/C%2B%2B/dijkstra.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/14/C++-Dijkstra's-Algorithm-using-STL)
    5. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2019/11/18/Kruskal's-Algorithm-Minimum-Spanning-Tree)
    
-   **Website**: [programmercave0.github.io/](https://programmercave0.github.io/) <br/>
-   **Facebook**: [https://www.facebook.com/programmercave/](https://www.facebook.com/programmercave/) <br/>
-   **Telegram**: [https://t.me/programmercave](https://t.me/programmercave)<br/>
+Also check out :
+[CodinGame-Solutions](https://github.com/programmercave0/CodinGame-Solutions)
+[Competitive-Programming](https://github.com/programmercave0/Competitive-Programming)
+
+<a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
    
    
    
