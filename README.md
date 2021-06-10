@@ -40,9 +40,8 @@ Curated list of Algorithms and Data Structure Programs
    4. [Dijkstra Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Dijkstra%20Algorithm/C%2B%2B/dijkstra.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/14/C++-Dijkstra's-Algorithm-using-STL)
    5. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2019/11/18/Kruskal's-Algorithm-Minimum-Spanning-Tree)
    
-Also check out :
-[CodinGame-Solutions](https://github.com/programmercave0/CodinGame-Solutions)
-
+Also check out : \
+[CodinGame-Solutions](https://github.com/programmercave0/CodinGame-Solutions) \
 [Competitive-Programming](https://github.com/programmercave0/Competitive-Programming)
 
 <a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
