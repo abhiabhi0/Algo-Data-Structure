@@ -46,7 +46,7 @@ Also check out : \
 
 <a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
    
-   
+Planning to join [Scalar Academy](https://www.scaler.com/academy/). Use my [Referral Link](https://www.scaler.com?unlock_code=MAIL575E) and get discount of ₹ 10,000. You can also use **Referral Code** : [MAIL575E](https://www.scaler.com?unlock_code=MAIL575E)
    
    
    
