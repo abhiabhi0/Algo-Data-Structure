@@ -3,6 +3,7 @@ Curated list of Algorithms and Data Structure Programs
 
 # 2D - Matrix
 1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
+2. [Print Upper Triangle in a square matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_upper_triangle.cpp)
 
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
