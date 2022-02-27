@@ -1,6 +1,9 @@
 # Algo-Data-Structure
 Curated list of Algorithms and Data Structure Programs 
 
+# 2D - Matrix
+1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
+
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
    2. [Doubly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Linked%20List/C%2B%2B/doublylinkedlist.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/28/C++-Doubly-Linked-List-using-Template-(Data-Structure))
@@ -48,8 +51,3 @@ Also check out : \
    
 Planning to join [Scalar Academy](https://www.scaler.com/academy/). Use my [Referral Link](https://www.scaler.com?unlock_code=MAIL575E) and get discount of ₹ 10,000. You can also use **Referral Code** : [MAIL575E](https://www.scaler.com?unlock_code=MAIL575E)
    
-   
-   
-  
-
-
