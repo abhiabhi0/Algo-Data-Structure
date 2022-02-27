@@ -7,6 +7,7 @@ Curated list of Algorithms and Data Structure Programs
   
   # Bit Manipulation
   1. [Convert a Decimal number to Binary](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Decimal_to_binary.cpp)
+  2. [Add Binary Strings](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Add_binary_strings.cpp)
 
   # 2D - Matrix
   1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
