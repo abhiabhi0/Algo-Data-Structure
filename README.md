@@ -1,8 +1,8 @@
 # Algo-Data-Structure
 Curated list of Algorithms and Data Structure Programs 
 
-  # Prime Numbers
-  1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Prime_No/check_prime.cpp)
+  # Maths
+  1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/check_prime.cpp)
 
   # 2D - Matrix
   1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
