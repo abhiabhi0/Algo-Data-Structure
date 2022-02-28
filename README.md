@@ -9,6 +9,9 @@ Curated list of Algorithms and Data Structure Programs
   1. [Convert a Decimal number to Binary](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Decimal_to_binary.cpp)
   2. [Add Binary Strings](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Add_binary_strings.cpp)
 
+  # Array and Subarray
+  1. [Given an array of size N. Find the maximum sum of subarray of length K](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Max_sum_of_subarray_len_K.cpp)
+
   # 2D - Matrix
   1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
   2. [Print Upper Triangle in a square matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_upper_triangle.cpp)
