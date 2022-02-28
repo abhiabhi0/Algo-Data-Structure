@@ -23,6 +23,7 @@ Curated list of Algorithms and Data Structure Programs
   
   # String
   1. [Toggle case of characters in string](https://github.com/programmercave0/Algo-Data-Structure/blob/master/String/Toggle_case.cpp)
+  2. [Longest palindrome substring](https://github.com/programmercave0/Algo-Data-Structure/blob/master/String/longest_substring_palindrome.cpp)
 
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
