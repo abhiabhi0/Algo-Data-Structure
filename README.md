@@ -12,6 +12,7 @@ Curated list of Algorithms and Data Structure Programs
   # Array and Subarray
   1. [Given an array of size N. Find the maximum sum of subarray of length K](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Max_sum_of_subarray_len_K.cpp)
   2. [Given an array. Return the sum of all possible subarrays](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Sum_of_all_subarrays.cpp)
+  3. [Given an array and Q queries. In every query you get start and end index of a subarray. Print the sum of the subarray for every query](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Subarray_sum_for_queries.cpp)
 
 
   # 2D - Matrix
