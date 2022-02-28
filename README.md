@@ -15,12 +15,14 @@ Curated list of Algorithms and Data Structure Programs
   3. [Given an array and Q queries. In every query you get start and end index of a subarray. Print the sum of the subarray for every query](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Subarray_sum_for_queries.cpp)
   4. [Find majority element in an array (occurring more than n/2 times)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Majority_element.cpp)
 
-
   # 2D - Matrix
   1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
   2. [Print Upper Triangle in a square matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_upper_triangle.cpp)
   3. [Given a square matrix. Convert it to its transpose without using any extra space](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/transpose.cpp)
   4. [Given a square matrix. Rotate it by 90 degree in clockwise direction without using any extra space](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Rotate_by_90.cpp)
+  
+  # String
+  1. [Toggle case of characters in string](https://github.com/programmercave0/Algo-Data-Structure/blob/master/String/Toggle_case.cpp)
 
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
