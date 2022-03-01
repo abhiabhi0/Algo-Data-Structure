@@ -27,6 +27,7 @@ Curated list of Algorithms and Data Structure Programs
 
   # Hashing
   1. [Given an array of N elements. Count the number of duplicate pairs i. e. A[i] == A[j], i != j](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/dup_pairs.cpp)
+  2. [Given an array of size N. Return the minimum distance b/w any two duplicate elements](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/min_dist_dup_pairs.cpp)
 
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
