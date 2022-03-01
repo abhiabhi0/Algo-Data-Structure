@@ -25,6 +25,9 @@ Curated list of Algorithms and Data Structure Programs
   1. [Toggle case of characters in string](https://github.com/programmercave0/Algo-Data-Structure/blob/master/String/Toggle_case.cpp)
   2. [Longest palindrome substring](https://github.com/programmercave0/Algo-Data-Structure/blob/master/String/longest_substring_palindrome.cpp)
 
+  # Hashing
+  1. [Given an array of N elements. Count the number of duplicate pairs i. e. A[i] == A[j], i != j](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/dup_pairs.cpp)
+
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Circular%20Linked%20List/C%2B%2B/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
    2. [Doubly Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Doubly%20Linked%20List/C%2B%2B/doublylinkedlist.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/28/C++-Doubly-Linked-List-using-Template-(Data-Structure))
