@@ -56,6 +56,7 @@ Curated list of Algorithms and Data Structure Programs
    
    # Subsets and Subsequences
     1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
+    2. [Find sum of all subsets sum](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_sum.cpp)
    
   # Sorting
    1. [Counting Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Counting%20Sort/C%2B%2B/countingsort.cpp)
