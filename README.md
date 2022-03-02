@@ -52,6 +52,7 @@ Curated list of Algorithms and Data Structure Programs
 
   # Binary Search Tree
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst.cpp)
+   2. [Height of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst_height.cpp)
    
   # Sorting
    1. [Counting Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Counting%20Sort/C%2B%2B/countingsort.cpp)
