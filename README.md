@@ -47,9 +47,8 @@ Curated list of Algorithms and Data Structure Programs
    10. [Swap node links in Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/swap_node_links_ll.cpp)
   
   # Stacks
-   1. [Remove Adjacent Duplicates using Stack](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Remove%20Adjacent%20Duplicates%20using%20Stack/C%2B%2B/deleteDuplicate.cpp)
-   2. [Stack using Array](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Stack%20using%20Array/C%2B%2B/stackusingarray.cpp)
-   3. [Stack using Linked List](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Stack%20using%20Linked%20List/C%2B%2B/stackusingll.cpp)
+   1. [Remove Adjacent Duplicates using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/delete_adj_dup.cpp)
+   2. [Stack using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/stack_using_array.cpp)
 
   # Binary Search Tree
    1. [Binary Tree](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Binary%20Tree/C%2B%2B/binarytree.cpp)
