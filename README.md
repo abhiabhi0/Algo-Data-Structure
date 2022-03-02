@@ -51,7 +51,7 @@ Curated list of Algorithms and Data Structure Programs
    2. [Stack using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/stack_using_array.cpp)
 
   # Binary Search Tree
-   1. [Binary Tree](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Binary%20Tree/C%2B%2B/binarytree.cpp)
+   1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst.cpp)
    
   # Sorting
    1. [Counting Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Counting%20Sort/C%2B%2B/countingsort.cpp)
