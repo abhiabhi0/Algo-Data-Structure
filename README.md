@@ -43,7 +43,7 @@ Curated list of Algorithms and Data Structure Programs
    6. [Reverse Linked List (recusrive and iterative)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/reverse_ll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/01/23/C++-Reverse-the-Linked-List-(Iterative-Method)-program)
    7. [Singly Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/singly_ll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/27/C++-Singly-Linked-List-using-Template-(Data-Structure))
    8. [Split Circular Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/split_circular_ll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/04/C++-Split-Singly-Circular-Linked-List-program)
-   9. [Stack using Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/stack_using_ll.cpp)<br/>
+   9. [Stack using Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/stack_using_ll.cpp)
   10.[Swap node links in Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/swap_node_links_ll.cpp)
   
   # Stacks
