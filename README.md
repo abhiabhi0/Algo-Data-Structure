@@ -44,7 +44,7 @@ Curated list of Algorithms and Data Structure Programs
    7. [Singly Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/singly_ll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2017/07/27/C++-Singly-Linked-List-using-Template-(Data-Structure))
    8. [Split Circular Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/split_circular_ll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/04/C++-Split-Singly-Circular-Linked-List-program)
    9. [Stack using Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/stack_using_ll.cpp)
-  10.[Swap node links in Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/swap_node_links_ll.cpp)
+   10. [Swap node links in Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/swap_node_links_ll.cpp)
   
   # Stacks
    1. [Remove Adjacent Duplicates using Stack](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Remove%20Adjacent%20Duplicates%20using%20Stack/C%2B%2B/deleteDuplicate.cpp)
