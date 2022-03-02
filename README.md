@@ -54,6 +54,9 @@ Curated list of Algorithms and Data Structure Programs
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst.cpp)
    2. [Height of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst_height.cpp)
    
+   # Subsets and Subsequences
+    1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
+   
   # Sorting
    1. [Counting Sort](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Counting%20Sort/C%2B%2B/countingsort.cpp)
    2.  Heapsort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/C%2B%2B/heapsort.cpp) | [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/heapSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/07/15/C++-Implementation-of-Heapsort-(Sorting))
