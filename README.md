@@ -15,6 +15,7 @@ Curated list of Algorithms and Data Structure Programs
   3. [Given an array and Q queries. In every query you get start and end index of a subarray. Print the sum of the subarray for every query](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Subarray_sum_for_queries.cpp)
   4. [Find majority element in an array (occurring more than n/2 times)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Majority_element.cpp)
   5. [Find maximum sum of contagious elements (Kadane's Algorithm)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Max_contagious_sum.cpp)
+  6. [Return true if subarray from L to R is increasing](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Increasing_subarray.cpp)
 
   # 2D - Matrix
   1. [Print all diagonals from Right to Left in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Print_RtoL_diagonals.cpp)
