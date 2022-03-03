@@ -23,6 +23,7 @@ Curated list of Algorithms and Data Structure Programs
   3. [Given a square matrix. Convert it to its transpose without using any extra space](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/transpose.cpp)
   4. [Given a square matrix. Rotate it by 90 degree in clockwise direction without using any extra space](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Rotate_by_90.cpp)
   5. [Given top left and bottom right indices. Calculate sum of the sub matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Submatrix_sum.cpp)
+  6. [Find maximum sum of any submatrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/2D_Matrix/Max_sum_submatrix.cpp)
   
   # String
   1. [Toggle case of characters in string](https://github.com/programmercave0/Algo-Data-Structure/blob/master/String/Toggle_case.cpp)
