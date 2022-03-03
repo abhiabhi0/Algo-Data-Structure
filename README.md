@@ -30,6 +30,7 @@ Curated list of Algorithms and Data Structure Programs
   1. [Given an array of N elements. Count the number of duplicate pairs i. e. A[i] == A[j], i != j](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/dup_pairs.cpp)
   2. [Given an array of size N. Return the minimum distance b/w any two duplicate elements](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/min_dist_dup_pairs.cpp)
   3. [Return number of subarrays with sum = 0](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/subarray_sum_0.cpp)
+  4. [Find the length of the longest set of consecutive elements](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Hashing/longest_consecutive_seq.cpp)
   
   # Recursion
   1. [Check if string is palindrome using recusion](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Recusion/check_palin_recusion.cpp)
