@@ -5,6 +5,7 @@ Curated list of Algorithms and Data Structure Programs
   1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/check_prime.cpp)
   2. [Given a perfect square. Find the square root(using Linear search and Binary search)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/find_sq_root.cpp)
   3. [Find number of pairs in an integer array A whose sum is divisible by M](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/count_pairs.cpp)
+  4. [Given an array of size N of all distinct integers from 0 to N-1. Rearrange the array such that A[i] = A[A[i]]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/rearrange.cpp)
   
   # Bit Manipulation
   1. [Convert a Decimal number to Binary](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Decimal_to_binary.cpp)
