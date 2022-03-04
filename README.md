@@ -8,6 +8,7 @@ Curated list of Algorithms and Data Structure Programs
   4. [Given an array of size N of all distinct integers from 0 to N-1. Rearrange the array such that A[i] = A[A[i]]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/rearrange.cpp)
   5. [Find GCD of two numbers](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/gcd.cpp)
   6. [Check if there exists any subsequence in the array such that gcd(subsequence) == 1](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/gcd_seq.cpp)
+  7. [Find all prime numbers from 1 to N (sieve of eratosthenes)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/sieve_of_eratosthenes.cpp)
   
   # Bit Manipulation
   1. [Convert a Decimal number to Binary](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Decimal_to_binary.cpp)
