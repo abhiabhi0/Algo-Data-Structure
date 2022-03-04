@@ -26,6 +26,15 @@ int submatrix_sum(std::vector<std::vector<int>>& mat, std::pair<int, int>& top_l
 		}
 	}
 
+	// for (int i = 0; i < r; ++i)
+	// {
+	// 	for (int j = 0; j < c; ++j)
+	// 	{
+	// 		std::cout << ps_rows[i][j] << " ";
+	// 	}
+	// 	std::cout << "\n";
+	// }
+
 	for (int i = 0; i < r; ++i)
 	{
 		for (int j = 0; j < c; ++j)
@@ -41,10 +50,34 @@ int submatrix_sum(std::vector<std::vector<int>>& mat, std::pair<int, int>& top_l
 		}
 	}
 
+	// for (int i = 0; i < r; ++i)
+	// {
+	// 	for (int j = 0; j < c; ++j)
+	// 	{
+	// 		std::cout << ps[i][j] << " ";
+	// 	}
+	// 	std::cout << "\n";
+	// }
+
 	int start_i = top_left.first, start_j = top_left.second;
 	int end_i = bottom_right.first, end_j = bottom_right.second;
 
-	int ans = ps[end_i][end_j] - ps[start_i-1][end_j] - ps[end_i][start_j-1] + ps[start_i-1][start_j-1];
+	int ans = ps[end_i][end_j];
+
+	if (start_i > 0)
+	{
+		ans = ans - ps[start_i-1][end_j];
+	}
+
+	if (start_j > 0)
+	{
+		ans = ans - ps[end_i][start_j-1];
+	}
+
+	if (start_i > 0 && start_j > 0)
+	{
+		ans = ans + ps[start_i-1][start_j-1];
+	}
 
 	return ans;
 }
@@ -59,16 +92,14 @@ int main()
    
 	#endif
 
-    std::vector<std::vector<int>> mat = {	{7, 1, -6, 3, 12},
-											{10, 5, -2, 0, 9},
-											{6, 4, -3, 8, 11},
-											{13, -8, -5, 12, 4},
-											{3, 2, 1, 9, 3},
-											{4, 3, -2, 6, 8}
-										};
+    std::vector<std::vector<int>> mat = {
+                            {1, 2, 3},
+                            {4, 5, 6},
+                            {7, 8, 9}
+                            };
 										
-	std::pair<int, int> top_left = {1, 2};
-	std::pair<int, int> bottom_right = {4, 3};
+	std::pair<int, int> top_left = {0, 0};
+	std::pair<int, int> bottom_right = {1, 1};
 
 	std::cout << submatrix_sum(mat, top_left, bottom_right) << "\n";
 
