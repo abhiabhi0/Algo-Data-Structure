@@ -7,6 +7,7 @@ Curated list of Algorithms and Data Structure Programs
   3. [Find number of pairs in an integer array A whose sum is divisible by M](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/count_pairs.cpp)
   4. [Given an array of size N of all distinct integers from 0 to N-1. Rearrange the array such that A[i] = A[A[i]]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/rearrange.cpp)
   5. [Find GCD of two numbers](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/gcd.cpp)
+  6. [Check if there exists any subsequence in the array such that gcd(subsequence) == 1](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/gcd_seq.cpp)
   
   # Bit Manipulation
   1. [Convert a Decimal number to Binary](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Decimal_to_binary.cpp)
