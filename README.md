@@ -49,6 +49,7 @@ Curated list of Algorithms and Data Structure Programs
   # Recursion
   1. [Check if string is palindrome using recusion](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Recusion/check_palin_recusion.cpp)
   2. [Power function using recursion](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Recusion/Power_function.cpp)
+  3. [Tower of Hanoi](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Recusion/tower_of_hanoi.cpp)
 
   # Linked List
    1. [Doubly Circular Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/circulardll.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/02/02/C++-Doubly-Circular-Linked-List-program)
