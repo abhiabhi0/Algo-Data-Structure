@@ -17,6 +17,7 @@ Curated list of Algorithms and Data Structure Programs
   2. [Add Binary Strings](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Add_binary_strings.cpp)
   3. [In an array, every element appears thrice except one. Find the single number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/single_number.cpp)
   4. [Given an array of N elements. Calculate the sum of xor of all the pairs](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Sum_xor_pairs.cpp)
+  5. [Given an array of N elements. Return max(A[i]&A[j]) where i != j the pairs](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/max_and_val.cpp)
 
   # Array and Subarray
   1. [Given an array of size N. Find the maximum sum of subarray of length K](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Array_and_Subarray/Max_sum_of_subarray_len_K.cpp)
