@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
+//Generic
 template<typename T>
 void selection_sort(std::vector<T>& array)
 {
@@ -29,6 +31,24 @@ void print(const std::vector<T>& array)
        std::cout << *itr << " ";
     }
     std::cout << '\n';
+}
+
+void selection_sort(std::vector<int>& vec, int n)
+{
+	for (int i = 0; i < n; ++i)
+	{
+		int mn = vec[i], idx = i;
+
+		for (int j = i; j < n; j++)
+		{
+			if (vec[j] < mn)
+			{
+				mn = vec[j];
+				idx = j;
+			}
+		}
+		std::swap(vec[i], vec[idx]);
+	}
 }
 
 int main()
