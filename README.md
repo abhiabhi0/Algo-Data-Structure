@@ -86,6 +86,7 @@ Curated list of Algorithms and Data Structure Programs
    
   # Pattern Matching
   1. [Given a string of length N. Return LPS array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/lps_array.cpp)
+  2. [Count all permutations of string A in another string B](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/count_permutations.cpp)
    
   # Greedy Algorithm
    1. [Huffman Coding](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Huffman%20Coding/C%2B%2B/Huffman.cpp)
