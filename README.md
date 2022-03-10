@@ -84,6 +84,9 @@ Curated list of Algorithms and Data Structure Programs
    6. Quick Sort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Quick%20Sort/C%2B%2B/quicksort.cpp) | [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Quick%20Sort/quickSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/07/16/C++-Implementation-of-Quicksort-(Sorting))
    7. Selection Sort [C++](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Selection%20Sort/C%2B%2B/selectionsort.cpp) | [Python](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Selection%20Sort/selectionSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/08/29/C++-Selection-sort-using-STL)
    
+  # Pattern Matching
+  1. [Given a string of length N. Return LPS array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/lps_array.cpp)
+   
   # Greedy Algorithm
    1. [Huffman Coding](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Huffman%20Coding/C%2B%2B/Huffman.cpp)
    
