@@ -1,29 +1,50 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <string>
 
-void insertion_sort(std::vector<int>& vec)
+void insertion_sort(std::vector<int>& vec, int n)
 {
-	for(auto it = vec.begin(); it != vec.end(); it++)
- 	{
-   		// Search
-   		auto const insertion_point = std::upper_bound(vec.begin(), it, *it);
+    for(std::size_t j = 1; j < n; j++)
+    {
+      int key = vec[j];
+      int i = j-1;
 
-   		//insert
-   		std::rotate(insertion_point, it, it+1);
- 	}
-}
-
-void print(std::vector<int> const& vec)
-{
-	for( int x : vec)
-  		std::cout << x << " ";
-	std::cout << '\n';
+      while(i >= 0 && vec[i] > key)
+      {
+         vec[i+1] = vec[i];
+         i--;
+      }
+      vec[i+1] = key;
+    }
 }
 
 int main()
 {
-	std::vector<int> arr = {5, 2, 4, 6, 1, 3};
- 	insertion_sort(arr);
- 	print(arr);
+	#ifndef FILE_INOUT
+ 
+    	freopen("in.txt", "r", stdin);
+ 	
+    	freopen("out.txt", "w", stdout);
+   
+	#endif
+
+    int n;
+    std::cin >> n;
+
+    std::vector<int> vec(n);
+    for (int i = 0; i < n; ++i)
+    {
+    	std::cin >> vec[i];
+    }
+
+    insertion_sort(vec, n);
+
+    for (int x : vec)
+    {
+    	std::cout << x << " ";
+    }
+    std::cout << "\n";
+
+    return 0;
 }
