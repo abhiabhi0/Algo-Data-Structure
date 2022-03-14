@@ -69,9 +69,9 @@ Curated list of Algorithms and Data Structure Programs
    1. [Remove Adjacent Duplicates using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/delete_adj_dup.cpp)
    2. [Stack using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/stack_using_array.cpp)
 
-  # Binary Search Tree
-   1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst.cpp)
-   2. [Height of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/bst_height.cpp)
+  # Binary Tree
+   1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst.cpp)
+   2. [Height of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_height.cpp)
    
   # Subsets and Subsequences
    1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
