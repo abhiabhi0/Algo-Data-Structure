@@ -1,40 +1,67 @@
 #include <iostream>
+#include <vector>
 #include <algorithm>
+#include <string>
 
-int split(int a[], int start_index, int end_index)
+int rearrange(std::vector<int>& arr, int l, int r)
 {
-    int x = a[end_index];
-    int i = start_index - 1;
-    for (int j = start_index; j < end_index; j++)
-    {
-        if (a[j] <= x)
-        {
-            i++;
-            std::swap(a[i], a[j]);//swap(a[i],a[j])
-        }
-    }
-    std::swap(a[i+1], a[end_index]);//swap(a[i+1],a[end_index])
+	int p1 = l+1, p2 = r;
 
-    return i+1;
+	while (p1 <= p2)
+	{
+		if (arr[p1] <= arr[l])
+		{
+			p1++;
+		}
+		else if (arr[p2] > arr[l])
+		{
+			p2--;
+		}
+		else  
+		{
+			std::swap(arr[p1], arr[p2]);
+			p1++;
+			p2--;
+		}
+	}
+	std::swap(arr[l], arr[p1-1]);
+	return p1-1;
 }
 
-void quicksort(int a[], int start_index, int end_index)
+void quick_sort(std::vector<int>& arr, int l, int r)
 {
-    if (start_index < end_index)
-    {
-        int mid_index = split(a, start_index, end_index);
-                        quicksort(a, start_index, mid_index - 1);
-                        quicksort(a, mid_index + 1, end_index);
-    }
+	if (l >= r)
+		return;
+
+	int index = rearrange(arr, l, r);
+	quick_sort(arr, l, index-1);
+	quick_sort(arr, index+1, r);
 }
 
 int main()
 {
-    int arr[8] = {2, 8, 7, 1, 3, 5, 6, 4};
-    quicksort(arr, 0, 7);
-    for (int i = 0; i < 8; i++)
+	#ifndef FILE_INOUT
+ 
+    	freopen("in.txt", "r", stdin);
+ 	
+    	freopen("out.txt", "w", stdout);
+   
+	#endif
+
+    int n;
+    std::cin >> n;
+
+    std::vector<int> vec(n);
+    for (int i = 0; i < n; ++i)
     {
-        std::cout << arr[i] << " ";
+    	std::cin >> vec[i];
+    }
+
+    quick_sort(vec, 0, n-1);
+
+    for (int i = 0; i < n; ++i)
+    {
+    	std::cout << vec[i] <<" ";
     }
     std::cout << "\n";
     return 0;
