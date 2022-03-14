@@ -92,6 +92,7 @@ Curated list of Algorithms and Data Structure Programs
   1. [Given sorted array in ascending order. Find floor of given target k](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/find_floor_element.cpp)
   2. [Given sorted array in ascending order. Find freq of given target k](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/find_freq.cpp)
   3. [Given array of distince elements. Find any one local minima](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/local_minima.cpp)
+  4. [Given array of distinct elements which is sorted then rotated. Find index of target K in this array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/index_sorted_rotated_arr.cpp)
    
   # Pattern Matching
   1. [Given a string of length N. Return LPS array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/lps_array.cpp)
