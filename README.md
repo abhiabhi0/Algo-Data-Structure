@@ -86,6 +86,10 @@ Curated list of Algorithms and Data Structure Programs
    6. Quick Sort [C++](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Quick%20Sort/C++/quicksort.cpp) | [Python](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Quick%20Sort/quickSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/07/16/C++-Implementation-of-Quicksort-(Sorting))
    7. Selection Sort [C++](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Selection%20Sort/C%2B%2B/selectionsort.cpp) | [Python](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Selection%20Sort/selectionSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/08/29/C++-Selection-sort-using-STL)
    8. [Find total pairs (i, j) such that i < j && A[i] > A[j]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/inversion_count.cpp)
+
+  # Binary Search
+  
+  1. [Given sorted array in ascending order. Find floor of given target k](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/find_floor_element.cpp)
    
   # Pattern Matching
   1. [Given a string of length N. Return LPS array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/lps_array.cpp)
