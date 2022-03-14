@@ -63,6 +63,7 @@ Curated list of Algorithms and Data Structure Programs
    9. [Stack using Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/stack_using_ll.cpp)
    10. [Swap node links in Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/swap_node_links_ll.cpp)
    11. [Given a LL, sorted in ascending order. Insert a value maintaing the sorted order](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/insert_in_sorted_ll.cpp)
+   12. [Reverse first k nodes of a LL](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/reverse_first_k.cpp)
   
   # Stacks
    1. [Remove Adjacent Duplicates using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/delete_adj_dup.cpp)
