@@ -32,6 +32,27 @@ class LinkedList
     void insert(int);
     void reverse_first_k(int);
     void printList() const;
+    Node* reverse_first_k_(Node* head, int k)
+    {
+        if (head == nullptr || k <= 1)
+        {
+            return head;
+        }
+
+        Node* next_node = head;
+        Node* h2 = nullptr;
+
+        while (k > 0 && next_node != nullptr)
+        {
+            Node* tmp = next_node;
+            next_node = next_node->next;
+            tmp->next = h2;
+            h2 = tmp;
+            k--;
+        }
+        head->next = next_node;
+        return h2;
+    }
 };
 
 void LinkedList::insert(int value)
@@ -54,25 +75,7 @@ void LinkedList::insert(int value)
 
 void LinkedList::reverse_first_k(int k)
 {
-    if (head == nullptr || k <= 1)
-    {
-        return;
-    }
-
-    Node* next_node = head;
-    Node* h2 = nullptr;
-
-    while (k > 0 && next_node != nullptr)
-    {
-        Node* tmp = next_node;
-        next_node = next_node->next;
-        tmp->next = h2;
-        h2 = tmp;
-        k--;
-    }
-    head->next = next_node;
-    head = h2;
-    return;
+    head = reverse_first_k_(head, k);   
 }
 
 void LinkedList::printList() const
@@ -115,7 +118,7 @@ int main()
     std::cout << "Original List : ";
     ll1.printList();
 
-    ll1.reverse_first_k(3);
+    ll1.reverse_first_k(9);
     std::cout << "New List : ";
     ll1.printList();
 }
