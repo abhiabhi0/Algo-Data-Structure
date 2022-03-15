@@ -8,8 +8,7 @@
 
 class LinkedList
 {
-  public:
-  	struct Node
+	struct Node
     {
         int data;
         Node * next = nullptr;
@@ -17,6 +16,7 @@ class LinkedList
     };
     Node *head;
 
+  public:
     LinkedList() : head(nullptr) {}
     ~LinkedList()
     {
@@ -124,7 +124,7 @@ int main()
     std::cout << "Original List : ";
     ll1.printList();
 
-    ll1.insert_in_sorted(11);
+    ll1.insert_in_sorted(4);
     std::cout << "New List : ";
     ll1.printList();
 }
