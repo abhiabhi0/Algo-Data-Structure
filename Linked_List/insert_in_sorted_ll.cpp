@@ -8,7 +8,8 @@
 
 class LinkedList
 {
-    struct Node
+  public:
+  	struct Node
     {
         int data;
         Node * next = nullptr;
@@ -16,7 +17,6 @@ class LinkedList
     };
     Node *head;
 
-  public:
     LinkedList() : head(nullptr) {}
     ~LinkedList()
     {
@@ -33,6 +33,32 @@ class LinkedList
     void insert(int);
     void insert_in_sorted(int);
     void printList() const;
+	Node* insert_in_sorted_(Node* head, int k)
+	{
+		Node* new_node = new Node(k);
+
+		if (head == nullptr)
+		{
+			return new_node;
+		}
+
+		if (k <= head->data)
+		{
+			new_node->next = head;
+			return new_node;
+		}
+
+		Node* tmp = head;
+
+		while(tmp->next != nullptr && tmp->next->data < k)
+		{
+			tmp = tmp->next;
+		}
+
+		new_node->next = tmp->next;
+		tmp->next = new_node;
+		return head;
+	}
 };
 
 void LinkedList::insert(int value)
@@ -55,31 +81,7 @@ void LinkedList::insert(int value)
 
 void LinkedList::insert_in_sorted(int k)
 {
-	Node* new_node = new Node(k);
-
-	if (head == nullptr)
-	{
-		head = new_node;
-		return;
-	}
-
-	if (k <= head->data)
-	{
-		new_node->next = head;
-		head = new_node;
-		return;
-	}
-
-	Node* tmp = head;
-
-	while(tmp->next != nullptr && tmp->next->data < k)
-	{
-		tmp = tmp->next;
-	}
-
-	new_node->next = tmp->next;
-	tmp->next = new_node;
-	return;
+	head = insert_in_sorted_(head, k);
 }
 
 void LinkedList::printList() const
@@ -112,17 +114,17 @@ int main()
 	#endif
 
     LinkedList ll1;
-    // ll1.insert(1);
-    // ll1.insert(2);
-    // ll1.insert(3);
-    // ll1.insert(4);
-    // ll1.insert(5);
-    // ll1.insert(6);
-    // ll1.insert(7);
+    ll1.insert(1);
+    ll1.insert(2);
+    ll1.insert(3);
+    ll1.insert(4);
+    ll1.insert(5);
+    ll1.insert(6);
+    ll1.insert(7);
     std::cout << "Original List : ";
     ll1.printList();
 
-    ll1.insert_in_sorted(1);
+    ll1.insert_in_sorted(11);
     std::cout << "New List : ";
     ll1.printList();
 }
