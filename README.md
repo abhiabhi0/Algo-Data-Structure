@@ -95,6 +95,7 @@ Curated list of Algorithms and Data Structure Programs
   2. [Given sorted array in ascending order. Find freq of given target k](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/find_freq.cpp)
   3. [Given array of distince elements. Find any one local minima](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/local_minima.cpp)
   4. [Given array of distinct elements which is sorted then rotated. Find index of target K in this array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/index_sorted_rotated_arr.cpp)
+  5. [Given an array of positive numbers. Find maximum length K, such that there is no subarray of length K with sum >= B](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/max_len_k.cpp)
    
   # Pattern Matching
   1. [Given a string of length N. Return LPS array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/lps_array.cpp)
