@@ -67,6 +67,7 @@ Curated list of Algorithms and Data Structure Programs
    13. [Find middle node](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/find_middle_node.cpp)
    14. [Sort LL using merge sort](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/sort_using_merge_sort.cpp)
    15. [Given sorted Doubly LL of unique integers. Count number of pairs of node whose sum of value is equal to k.](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/count_node_pairs.cpp)
+   16. [Clone (Deep copy) a LL with random pointer](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Linked_List/deep_copy.cpp)
   
   # Stacks
    1. [Remove Adjacent Duplicates using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/delete_adj_dup.cpp)
