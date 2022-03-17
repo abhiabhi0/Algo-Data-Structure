@@ -53,6 +53,7 @@ class DoublyLinkedList
           if(tail->next == nullptr)
           {
               tail->next = node;
+              node->prev = tail;
               tail = node;
           }
       }
