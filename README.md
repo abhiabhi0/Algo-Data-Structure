@@ -73,6 +73,7 @@ Curated list of Algorithms and Data Structure Programs
   # Stacks
    1. [Remove Adjacent Duplicates using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/delete_adj_dup.cpp)
    2. [Stack using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/stack_using_array.cpp)
+   3. [Stack using Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/stack_using_ll.cpp)
 
   # Binary Tree
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst.cpp)
