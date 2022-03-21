@@ -76,6 +76,7 @@ Curated list of Algorithms and Data Structure Programs
    3. [Stack using Linked List](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/stack_using_ll.cpp)
    4. [Get minimum value from stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/get_minimum.cpp)
    5. [Sort the array using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/sort_array_using_stack.cpp)
+   6. [Double characters trouble](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/double_char_trouble.cpp)
 
   # Binary Tree
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst.cpp)
