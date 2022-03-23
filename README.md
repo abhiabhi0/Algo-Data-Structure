@@ -78,6 +78,7 @@ Curated list of Algorithms and Data Structure Programs
    5. [Sort the array using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/sort_array_using_stack.cpp)
    6. [Double characters trouble](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/double_char_trouble.cpp)
    7. [Nearest Smallest Element](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/nearest_smallest_element.cpp)
+   8. [Largest Rectangle Area in Histogram](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/largest_rectangle_area_histogram.cpp)
 
   # Binary Tree
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst.cpp)
