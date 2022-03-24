@@ -20,7 +20,6 @@ class Queue
   	void enqueue(int);
   	void dequeue();
   	int front();
-  	int back();
   	bool is_empty();
 };
 
@@ -56,17 +55,6 @@ int Queue::front()
 	}
 	
 	return arr[(f + 1) % max];
-}
-
-int Queue::back()
-{
-	if (sz == 0)
-	{
-		std::cout << "Queue is Empty\n";
-		return -1;
-	}
-	
-	return arr[r];
 }
 
 bool Queue::is_empty()
