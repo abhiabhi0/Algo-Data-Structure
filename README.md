@@ -83,6 +83,7 @@ Curated list of Algorithms and Data Structure Programs
    
   # Queue
   1. [Queue using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Queue/Queue_using_array.cpp)
+  2. [Queue using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Queue/Queue_using_stack.cpp)
 
   # Binary Tree
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst.cpp)
