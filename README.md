@@ -82,9 +82,10 @@ Curated list of Algorithms and Data Structure Programs
    9. [Find sum of max-min for every subarray](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/max_min_sum.cpp)
    10. [Postfix Notation](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/postfix_notation.cpp)
    
-  # Queue
+  # Queue and Deque
   1. [Queue using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Queue/Queue_using_array.cpp)
   2. [Queue using Stack](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Queue/Queue_using_stack.cpp)
+  3. [Return an array containg the max value of every windows of size k](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Queue/max_val_windows.cpp)
 
   # Binary Tree
    1. [Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst.cpp)
