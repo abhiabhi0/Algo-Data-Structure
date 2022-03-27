@@ -80,6 +80,7 @@ Curated list of Algorithms and Data Structure Programs
    7. [Nearest Smallest Element](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/nearest_smallest_element.cpp)
    8. [Largest Rectangle Area in Histogram](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/largest_rectangle_area_histogram.cpp)
    9. [Find sum of max-min for every subarray](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/max_min_sum.cpp)
+   10. [Postfix Notation](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Stack/postfix_notation.cpp)
    
   # Queue
   1. [Queue using Array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Queue/Queue_using_array.cpp)
