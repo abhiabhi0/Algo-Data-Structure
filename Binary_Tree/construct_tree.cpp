@@ -1,3 +1,6 @@
+//Given the preorder and inorder traversal of a tree with no duplicates.
+//Contruct the tree
+
 //Map node's valuw with its index using preorder vector
 std::unordered_map<int, int> map_value_index(std::vector<int>& preorder)
 {
