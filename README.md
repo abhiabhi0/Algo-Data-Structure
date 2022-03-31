@@ -92,6 +92,8 @@ Curated list of Algorithms and Data Structure Programs
    2. [Height of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_height.cpp)
    3. [Level Order Traversal](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/level_order_traversal.cpp)
    4. [Vertical Order Traversal](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/vertical_order_traversal.cpp)
+   5. [Given the preorder and inorder traversal of a tree with no duplicates. Contruct the tree
+](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/construct_tree.cpp)
    
   # Subsets and Subsequences
    1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
