@@ -18,10 +18,7 @@ std::vector<vector<int>> level_order_traversal(TreeNode* root)
 			TreeNode* tmp = q.front();
 			q.pop();
 
-			if (i == 0)
-			{
-				level.push(tmp->val);
-			}
+			level.push(tmp->val);
 
 			if (tmp->left != NULL)
 			{
