@@ -21,47 +21,69 @@ void vertical_order_traversal(TreeNode* root, int dist)
 
 //If vertical order matters
 
-// map<distance, list of nodes>
-std::unordered_map<int, std::vector<int> > um;
+/**
+ * Definition for binary tree
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+vector<vector<int> > vertical_order_traversal(TreeNode* A) {
+    //map dist and values
+    if (A == NULL)
+    {
+        return {{}};
+    }
+    unordered_map<int, vector<int>> um;
+    vector<int> distances;
 
-void vertical_order_traversal(TreeNode* root)
-{
-	if (root == NULL)
-		return NULL;
+    //queue dist and node
+    queue<pair<int, TreeNode*>>q;
+    q.push({0, A});
 
-	//Queue of Node and dist
-	std::queue<TreeNode*, int> q;
-	q.push({root, 0});
+    while (!q.empty())
+    {
+        int q_sz = q.size();
 
-	while (!q.empty())
-	{
-		int q_sz = q.size();
+        for (int i = 0; i < q_sz; ++i)
+        {
+            pair<int, TreeNode*> p = q.front();
+            q.pop();
 
-		for (int i = 0; i < q_sz; ++i)
-		{
-			pair<int, TreeNode*> pr = q.front();
-			q.pop();
+            int dist = p.first;
+            TreeNode*tmp = p.second;
 
-			int dist = pr.first;
-			TreeNode* tmp = pr.second;
+            if (um.find(dist) == um.end())
+            {
+                std::vector<int> v_tmp = {tmp->val};
+                um.insert({dist, v_tmp});
+                distances.push_back(dist);
+            }
+            else  
+            {
+                um[dist].push_back(tmp->val);
+            }
 
-			if (i == 0)
-			{
-				if (um.find(dist) == um.end())
-				{
-					um.insert({dist, {root->val}});
-				}
-			}
+            if (tmp->left != NULL)
+            {
+                q.push({dist-1, tmp->left});
+            }
 
-			if (tmp->left != NULL)
-			{
-				q.push({dist-1, tmp->left});
-			}
+            if (tmp->right != NULL)
+            {
+                q.push({dist+1, tmp->right});
+            }
+        }
+    }
 
-			if (tmp->right != NULL)
-			{
-				q.push({dist+1, tmp->right});
-			}
-		}
-	}
+    vector<vector<int>> res;
+    sort(distances.begin(), distances.end());
+
+    for (int i = 0; i < distances.size(); ++i)
+    {
+        res.push_back(um[distances[i]]);
+    }
+    return res;
 }
