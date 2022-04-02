@@ -95,6 +95,7 @@ Curated list of Algorithms and Data Structure Programs
    5. [Given the preorder and inorder traversal of a tree with no duplicates. Contruct the tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/construct_tree.cpp)
    6. [Left View of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/left_view.cpp)
    7. [Right View of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/right_view.cpp)
+   8. [Return true if the given tree is Height Balanced Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/check_height_balanced_tree.cpp)
   
   # Subsets and Subsequences
    1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
