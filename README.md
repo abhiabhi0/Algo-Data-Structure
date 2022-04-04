@@ -121,6 +121,7 @@ Curated list of Algorithms and Data Structure Programs
   5. [Given an array of positive numbers. Find maximum length K, such that there is no subarray of length K with sum >= B](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/max_len_k.cpp)
   6. [Aggresive Cows](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/maximize_min_dist.cpp)
   7. [Find Kth position element](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/kth_pos_element.cpp)
+  8. [Find Kth position element in two sorted arrays](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search/kth_pos_element_in_two_arrays.cpp)
    
   # Pattern Matching
   1. [Given a string of length N. Return LPS array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/lps_array.cpp)
