@@ -97,6 +97,7 @@ Curated list of Algorithms and Data Structure Programs
    7. [Right View of Binary Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/right_view.cpp)
    8. [Return true if the given tree is Height Balanced Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/check_height_balanced_tree.cpp)
    9. [Check Valid Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/check_binary_search_tree.cpp)
+   10. [Insert value in a Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_insert.cpp)
   
   # Subsets and Subsequences
    1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
@@ -147,6 +148,4 @@ Also check out : \
 [Competitive-Programming](https://github.com/programmercave0/Competitive-Programming)
 
 <a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
-   
-Planning to join [Scalar Academy](https://www.scaler.com/academy/). Use my [Referral Link](https://www.scaler.com?unlock_code=MAIL575E) and get discount of ₹ 10,000. You can also use **Referral Code** : [MAIL575E](https://www.scaler.com?unlock_code=MAIL575E)
-   
+  
