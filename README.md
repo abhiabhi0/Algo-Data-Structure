@@ -99,6 +99,7 @@ Curated list of Algorithms and Data Structure Programs
    9. [Check Valid Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/check_binary_search_tree.cpp)
    10. [Insert value in a Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_insert.cpp)
    11. [Delete value from a Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_delete.cpp)
+   12. [Delete every node which has a value outside the range [l, h]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/delete_range.cpp)
   
   # Subsets and Subsequences
    1. [Print all subsets using Bit](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Subset_%26_Subsequence/subsets_using_bit.cpp)
