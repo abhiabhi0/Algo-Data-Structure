@@ -13,7 +13,8 @@ Curated list of Algorithms and Data Structure Programs
   9. [Count number of divisors of N](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/count_divisors.cpp)
   
   # Combinatorics
-  1. [Compute nCr % m](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Combinatorics/nCr_mod_m.cpp)
+  1. [Compute nCr % m, where m is not prime](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Combinatorics/nCr_mod_m.cpp)
+  2. [Compute nCr % p, where p is prime](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Combinatorics/nCr_mod_p.cpp)
   
   # Bit Manipulation
   1. [Convert a Decimal number to Binary](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Bit_Manipulation/Decimal_to_binary.cpp)
