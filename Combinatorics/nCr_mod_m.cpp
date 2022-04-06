@@ -1,5 +1,5 @@
 //using Dynamic Programming
-//A = n, B = r and C = m (mod)
+//A = n, B = r and C = m (mod) where C is not prime
 int nCr_mod_m_DP(int A, int B, int C) {
     if (B == 1) return A % C;
 
