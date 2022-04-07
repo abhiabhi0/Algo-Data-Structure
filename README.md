@@ -104,7 +104,7 @@ Curated list of Algorithms and Data Structure Programs
    10. [Insert value in a Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_insert.cpp)
    11. [Delete value from a Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/bst_delete.cpp)
    12. [Delete every node which has a value outside the range [l, h]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/delete_range.cpp)
-   13. [Given a BST where two nodes have been swapped. Fix the BST](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Binary_Tree)
+   13. [Given a BST where two nodes have been swapped. Fix the BST](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/fix_bst.cpp)
    14. [Iterative Inorder Traversal of BST](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/iterative_inorder_traversal.cpp)
    15. [Morris Inorder Traversal of BST](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/morris_inorder_traversal.cpp)
    16. [Diameter of a BT](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/tree_diameter.cpp)
