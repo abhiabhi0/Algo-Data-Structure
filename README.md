@@ -111,6 +111,7 @@ Curated list of Algorithms and Data Structure Programs
 
   # Binary Search Tree
    1. [Least Common Ancestor in Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/lca.cpp)
+   2. [Find the size of max sized BST subtree in the tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/max_sized_bst.cpp)
 
   
   # Subsets and Subsequences
