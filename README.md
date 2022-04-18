@@ -145,6 +145,9 @@ Curated list of Algorithms and Data Structure Programs
   3. [Given a text of length N and a pattern of length M. Check if the pattern exists in the text. (N >> M)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/check_pattern_in_text.cpp)
   4. [Given a string. Find number of end-start rotation giving the same string](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Pattern_Matching/same_rotation_string.cpp)
 
+  # Tries
+  1. [Tries](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Tries/tries.cpp)
+
   # Two Pointers
   1. [Container with Most Water](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Two_Pointers/most_water.cpp)
    
