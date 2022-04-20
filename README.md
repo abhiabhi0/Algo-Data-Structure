@@ -109,6 +109,7 @@ Curated list of Algorithms and Data Structure Programs
    15. [Morris Inorder Traversal of BST](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/morris_inorder_traversal.cpp)
    16. [Diameter of a BT](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/tree_diameter.cpp)
    17. [Find path from given node to root node in BT](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/path_node_to_root.cpp)
+   18. [Calculate number of nodes a a distance k from source node](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Tree/num_node_at_k.cpp)
 
   # Binary Search Tree
    1. [Least Common Ancestor in Binary Search Tree](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Binary_Search_Tree/lca.cpp)
