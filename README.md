@@ -122,7 +122,7 @@ Curated list of Algorithms and Data Structure Programs
    
   # Sorting
    1. [Counting Sort](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Count_sort.cpp)
-   2.  Heapsort [C++](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/C%2B%2B/heapsort.cpp) | [Python](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Heapsort/heapSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/07/15/C++-Implementation-of-Heapsort-(Sorting))
+   2.  Heapsort [C++](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Heapsort/C%2B%2B/heapsort.cpp) | [Python](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Heapsort/heapSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/07/15/C++-Implementation-of-Heapsort-(Sorting))
    3. [Maximum Priority Queue](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Maximum%20Priority%20Queue/C%2B%2B/maxpriorityqueue.cpp)
    4. Insertion Sort [C++](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Insertion%20Sort/C++/insertionsort.cpp) | [Python](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Insertion%20Sort/insertionSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/08/20/C++-Insertion-Sort-using-STL-(Sorting))
    5. Merge Sort [C++](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Merge%20Sort/C%2B%2B/mergesort.cpp) | [Python](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Sorting/Merge%20Sort/mergeSort.py) | [Detailed Explanation](https://programmercave0.github.io/blog/2017/08/24/C++-Implementation-of-Merge-Sort)
