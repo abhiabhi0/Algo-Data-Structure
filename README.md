@@ -153,6 +153,7 @@ Curated list of Algorithms and Data Structure Programs
   # Heaps
   1. [Min Heap](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Heaps/min_heap.cpp)
   2. [Given an array. Find the k smaller elements](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Heaps/k_smaller_elements.cpp)
+  3. [Given a nearly sorted array. Sort the array](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Heaps/nearly_sorted_array.cpp)
 
   # Two Pointers
   1. [Container with Most Water](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Two_Pointers/most_water.cpp)
