@@ -161,6 +161,9 @@ Curated list of Algorithms and Data Structure Programs
   # Greedy Algorithm
    1. [Huffman Coding](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Huffman%20Coding/C%2B%2B/Huffman.cpp)
    
+  # Dynamic Programming
+   1. [Given N stairs. Count the number of ways of going from 0th to nth step](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/count_ways.cpp) 
+   
   # Graph Algorithms
    1. [Bellman Ford](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Bellman%20Ford/C%2B%2B/bellmanford.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/11/C++-Bellman-Ford-Algorithm-using-STL)
    2. [Breadth First Search](https://github.com/thakurabhi/Algo-Data-Structure/tree/master/Breadth%20First%20Search/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/03/06/C++-Breadth-First-Search-using-Adjacency-List)
