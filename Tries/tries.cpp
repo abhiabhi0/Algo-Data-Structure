@@ -30,6 +30,7 @@ void insert(string word)
 		}
 		curr = curr.um[ch];
 	}
+	curr.end = true;
 }
 
 //TC : O(l), l = length of word
