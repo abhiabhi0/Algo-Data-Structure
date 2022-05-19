@@ -21,7 +21,7 @@ int num_ways(std::vector<int>& arr)
 
 	if (tot_sum % 2)
 	{
-		return 1;
+		return 0;
 	}
 
 	int k = tot_sum/2;
