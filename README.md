@@ -167,6 +167,7 @@ Curated list of Algorithms and Data Structure Programs
    3. [Dungeon Princess](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/dungeon_princess.cpp)
    4. [Longest Palindromic Subsequence](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/longest_palindromic_subseq.cpp)
    5. [Coin Change Problem](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/coin_change_problem.cpp)
+   6. [Equal Array Partitioning](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/eq_array_parti.cpp)
    
   # Graph Algorithms
    1. [Bellman Ford](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Bellman%20Ford/C%2B%2B/bellmanford.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/11/C++-Bellman-Ford-Algorithm-using-STL)
