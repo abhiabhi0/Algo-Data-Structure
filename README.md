@@ -167,11 +167,12 @@ Curated list of Algorithms and Data Structure Programs
    3. [Given a number K. Find the minimum number of perfect square needed to get the sum K](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/min_num_perfect_sq.cpp)
    4. [House Robbers](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/house_robbers.cpp)
    5. [Ways to Decode](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/decode_ways.cpp)
-   6. [Dungeon Princess](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/dungeon_princess.cpp)
-   7. [Longest Palindromic Subsequence](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/longest_palindromic_subseq.cpp)
-   8. [Coin Change Problem](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/coin_change_problem.cpp)
-   9. [Equal Array Partitioning](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/eq_array_parti.cpp)
-   10. [Minimum Absoulte Difference](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/min_abs_diff.cpp)
+   6. [Num of Paths in 2D Matrix](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/num_paths.cpp)
+   7. [Dungeon Princess](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/dungeon_princess.cpp)
+   8. [Longest Palindromic Subsequence](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/longest_palindromic_subseq.cpp)
+   9. [Coin Change Problem](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/coin_change_problem.cpp)
+   10. [Equal Array Partitioning](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/eq_array_parti.cpp)
+   11. [Minimum Absoulte Difference](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/min_abs_diff.cpp)
    
   # Graph Algorithms
    1. [Bellman Ford](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Bellman%20Ford/C%2B%2B/bellmanford.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/11/C++-Bellman-Ford-Algorithm-using-STL)
