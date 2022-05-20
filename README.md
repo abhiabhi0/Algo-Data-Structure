@@ -172,10 +172,11 @@ Curated list of Algorithms and Data Structure Programs
    8. [Longest Common Subsequence](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/lcs.cpp)
    9. [Convert s1 to s2 in minimum cost](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/convert_str.cpp)
    10. [Wildcard Matching](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/wildcard_match.cpp)
-   11. [Longest Palindromic Subsequence](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/longest_palindromic_subseq.cpp)
-   12. [Coin Change Problem](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/coin_change_problem.cpp)
-   13. [Equal Array Partitioning](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/eq_array_parti.cpp)
-   14. [Minimum Absoulte Difference](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/min_abs_diff.cpp)
+   11. [Count num of unique ways in which we can create B as a subseq of A](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/num_str.cpp)
+   12. [Longest Palindromic Subsequence](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/longest_palindromic_subseq.cpp)
+   13. [Coin Change Problem](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/coin_change_problem.cpp)
+   14. [Equal Array Partitioning](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/eq_array_parti.cpp)
+   15. [Minimum Absoulte Difference](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Dynamic_Programming/min_abs_diff.cpp)
    
   # Graph Algorithms
    1. [Bellman Ford](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Bellman%20Ford/C%2B%2B/bellmanford.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/11/C++-Bellman-Ford-Algorithm-using-STL)
