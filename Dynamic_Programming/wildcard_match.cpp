@@ -41,7 +41,7 @@ int match_str(std::string& s1, std::string& s2)
 			}
 			else if (s2[j-1] == '?')
 			{
-				dp[i-1][j] = dp[i-1][j-1];
+				dp[i][j] = dp[i-1][j-1];
 			}
 			else if (s2[j-1] == '*')
 			{
