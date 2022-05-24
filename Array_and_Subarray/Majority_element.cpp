@@ -24,7 +24,7 @@ int majority_element(std::vector<int>& vec, int n)
 			}
 			else 
 			{
-				freq = -1;
+				freq--;
 
 				if (freq == 0)
 				{
