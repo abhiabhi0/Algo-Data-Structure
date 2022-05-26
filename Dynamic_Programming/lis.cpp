@@ -14,7 +14,7 @@ int lis(std::vector<int>& vec)
 		int curr = 0;
 		for (int j = 0; j < i; ++j)
 		{
-			if (vec[i] < vec[j])
+			if (vec[j] < vec[i])
 			{
 				curr = std::max(curr, dp[j]);
 			}
