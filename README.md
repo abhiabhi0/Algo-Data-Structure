@@ -186,7 +186,7 @@ Curated list of Algorithms and Data Structure Programs
    2. [Breadth First Search](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Graph_Algorithms/Breadth%20First%20Search) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/03/06/C++-Breadth-First-Search-using-Adjacency-List)
    3. [BFS - Shortest Path](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Breadth%20First%20Search/bfs_shortest_path.cpp)
    4. [BFS - Minimum distance from Hospital for every house](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Breadth%20First%20Search/bfs_min_dist_hospital.cpp)
-   5. [Depth First Seacrh](https://github.com/thakurabhi/Algo-Data-Structure/tree/master/Depth%20First%20Seacrh/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/05/C++-Depth-First-Search-using-Adjacency-List)
+   5. [Depth First Seacrh](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Graph_Algorithms/Depth%20First%20Seacrh/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/05/C++-Depth-First-Search-using-Adjacency-List)
    6. [Dijkstra Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Dijkstra%20Algorithm/C%2B%2B/dijkstra.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/14/C++-Dijkstra's-Algorithm-using-STL)
    7. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2019/11/18/Kruskal's-Algorithm-Minimum-Spanning-Tree)
    
