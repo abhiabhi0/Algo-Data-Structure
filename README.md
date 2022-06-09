@@ -189,7 +189,7 @@ Curated list of Algorithms and Data Structure Programs
    5. [Depth First Seacrh](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Graph_Algorithms/Depth%20First%20Seacrh/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/05/C++-Depth-First-Search-using-Adjacency-List)
    6. [DFS - Count the number of connected components](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Depth%20First%20Seacrh/num_connected_components.cpp)
    7. [DFS - Conflicted Area](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Depth%20First%20Seacrh/conflicted_area.cpp)
-   8. [Dijkstra Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Dijkstra%20Algorithm/C%2B%2B/dijkstra.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/14/C++-Dijkstra's-Algorithm-using-STL)
+   8. [Dijkstra Algorithm](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Dijkstra_Algo/dijkstra.cpp) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/14/C++-Dijkstra's-Algorithm-using-STL)
    9. [Kruskal Algorithm](https://github.com/thakurabhi/Algo-Data-Structure/blob/master/Kruskal%20Algorithm/C%2B%2B/kruskal.cpp) | [Detailed Explanation](https://programmercave0.github.io//blog/2019/11/18/Kruskal's-Algorithm-Minimum-Spanning-Tree)
    
 Also check out : \
