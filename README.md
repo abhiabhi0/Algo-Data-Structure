@@ -186,7 +186,7 @@ Curated list of Algorithms and Data Structure Programs
    2. [Breadth First Search](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Graph_Algorithms/Breadth%20First%20Search) | [Detailed Explanation](https://programmercave0.github.io//blog/2018/03/06/C++-Breadth-First-Search-using-Adjacency-List)
    3. [BFS - Shortest Path](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Breadth%20First%20Search/bfs_shortest_path.cpp)
    4. [BFS - Minimum distance from Hospital for every house](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Breadth%20First%20Search/bfs_min_dist_hospital.cpp)
-   5. [Depth First Seacrh](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Graph_Algorithms/Depth%20First%20Seacrh/C%2B%2B) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/05/C++-Depth-First-Search-using-Adjacency-List)
+   5. [Depth First Seacrh](https://github.com/programmercave0/Algo-Data-Structure/tree/master/Graph_Algorithms/Depth%20First%20Seacrh) | [Detailed Explanation](https://programmercave0.github.io/blog/2018/03/05/C++-Depth-First-Search-using-Adjacency-List)
    6. [DFS - Count the number of connected components](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Depth%20First%20Seacrh/num_connected_components.cpp)
    7. [DFS - Conflicted Area](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/Depth%20First%20Seacrh/conflicted_area.cpp)
    8. [Topological Sort](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Graph_Algorithms/topological_sort.cpp)
