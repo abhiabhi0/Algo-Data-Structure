@@ -2,7 +2,7 @@
 Curated list of Algorithms and Data Structure Programs 
 
   # Maths
-  1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/check_prime.cpp)
+  1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/check_prime.cpp) - [Blog](https://programmercave0.github.io/blog/2023/02/28/Optimized-Algorithm-for-Checking-Prime-Numbers-A-Comprehensive-Guide)
   2. [Given a perfect square. Find the square root(using Linear search and Binary search)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/find_sq_root.cpp)
   3. [Find number of pairs in an integer array A whose sum is divisible by M](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/count_pairs.cpp)
   4. [Given an array of size N of all distinct integers from 0 to N-1. Rearrange the array such that A[i] = A[A[i]]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/rearrange.cpp)
@@ -198,4 +198,8 @@ Also check out : \
 [Competitive-Programming](https://github.com/programmercave0/Competitive-Programming)
 
 <a href="https://www.buymeacoffee.com/botman1001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
+
+If you are considering enrolling in Scaler Academy and would like a referral and discount on your fees, I can help. As a current Scaler student, I am able to provide referrals. Please fill out the form at the following link for more information: [FORM - Information before Scaler Academy Referral](https://forms.gle/ZZum3N28FSVDphyU9)
+
+Are you passionate about development and want to find a job that utilizes your skills? Check out [Geektrust](https://www.geektrust.com/create-account?refToken=878753f7a7a69b6db8ea7c) for resources and opportunities in the field of development
   
