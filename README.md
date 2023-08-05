@@ -2,10 +2,10 @@
 Curated list of Algorithms and Data Structure Programs 
 
   # Maths
-  1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/check_prime.cpp) - [Blog](https://programmercave0.github.io/blog/2023/02/28/Optimized-Algorithm-for-Checking-Prime-Numbers-A-Comprehensive-Guide)
+  1. [Check if a number is a prime number](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/check_prime.cpp) && [Blog](https://programmercave0.github.io/blog/2023/02/28/Optimized-Algorithm-for-Checking-Prime-Numbers-A-Comprehensive-Guide)
   2. [Given a perfect square. Find the square root(using Linear search and Binary search)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/find_sq_root.cpp)
   3. [Find number of pairs in an integer array A whose sum is divisible by M](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/count_pairs.cpp)
-  4. [Given an array of size N of all distinct integers from 0 to N-1. Rearrange the array such that A[i] = A[A[i]]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/rearrange.cpp)
+  4. [Given an array of size N of all distinct integers from 0 to N-1. Rearrange the array such that A[i] = A[A[i]]](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/rearrange.cpp) && [Blog](https://programmercave.com/blog/2023/07/22/Rearranging-an-Array-Transforming-arr-i-into-arr-arr-i)
   5. [Find GCD of two numbers](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/gcd.cpp)
   6. [Check if there exists any subsequence in the array such that gcd(subsequence) == 1](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/gcd_seq.cpp)
   7. [Find all prime numbers from 1 to N (sieve of eratosthenes)](https://github.com/programmercave0/Algo-Data-Structure/blob/master/Maths/sieve_of_eratosthenes.cpp)
